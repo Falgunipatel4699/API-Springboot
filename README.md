@@ -79,5 +79,6 @@ Before you begin, make sure you have the following prerequisites:
 
 https://aws.amazon.com/documentation/
 [AWS Elastic Beanstalk Documentation](https://docs.aws.amazon.com/elasticbeanstalk/latest/dg/Welcome.html)
+
 [Spring Boot Documentation](https://docs.spring.io/spring-boot/docs/current/reference/htmlsingle/)
 
