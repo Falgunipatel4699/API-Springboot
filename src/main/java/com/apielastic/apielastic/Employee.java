@@ -1,0 +1,19 @@
+package com.apielastic.apielastic;
+
+
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+import lombok.ToString;
+
+@Data
+@AllArgsConstructor
+@NoArgsConstructor
+@ToString
+public class Employee {
+
+    private int id;
+    private String empName;
+    private double salary;
+
+}
